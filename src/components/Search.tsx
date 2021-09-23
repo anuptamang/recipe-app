@@ -1,17 +1,16 @@
-import React from 'react'
 import { Button } from '@chakra-ui/button'
-import { FormControl, FormErrorMessage, FormLabel } from '@chakra-ui/form-control'
+import { FormControl, FormLabel } from '@chakra-ui/form-control'
+import { SearchIcon } from '@chakra-ui/icons'
 import { Input } from '@chakra-ui/input'
 import { Box, Flex } from '@chakra-ui/layout'
-import { SearchIcon } from '@chakra-ui/icons'
-import { Checkbox } from '@chakra-ui/checkbox'
+import React from 'react'
 import Checkboxes from './Checkboxes'
 
 
 const Search = () => {
-  const handleSubmit = () => {
+  // const handleSubmit = () => {
     
-  }
+  // }
 
   return (
     <Box maxW="50%">

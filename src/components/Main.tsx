@@ -1,4 +1,4 @@
-import { Container, Heading, SimpleGrid, Stack, Text } from '@chakra-ui/layout'
+import { Container, Heading } from '@chakra-ui/layout'
 import React from 'react'
 import FeaturedItems from './FeaturedItems'
 import Search from './Search'

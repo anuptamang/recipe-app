@@ -1,6 +1,6 @@
 import { Button } from '@chakra-ui/button'
 import { Image } from '@chakra-ui/image'
-import { Box, Heading, Link, SimpleGrid, Stack, Text } from '@chakra-ui/layout'
+import { Box, Heading, Link, SimpleGrid, Stack } from '@chakra-ui/layout'
 import React from 'react'
 import { Link as ReachRouter } from 'react-router-dom'
 

@@ -1,6 +1,5 @@
 import { Box, Container, Flex, Link, Text } from '@chakra-ui/layout'
 import React from 'react'
-import { Link as ReachLink } from 'react-router-dom'
 
 const Footer = () => {
   return (
